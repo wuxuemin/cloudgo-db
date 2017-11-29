@@ -45,4 +45,4 @@
 
 ![测试:](https://github.com/wuxuemin/cloudgo-db/blob/master/image/orm-1.png)
 
-![测试:](https://github.com/wuxuemin/cloudgo-db/blob/master/image/orm-2.png)
+![测试:](https://github.com/wuxuemin/cloudgo-db/blob/master/image/orm2.png)

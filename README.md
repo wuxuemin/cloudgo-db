@@ -27,9 +27,9 @@
 
 `ab -n 1000 -c 100 http://localhost:8000/?userid=`
 
-![测试:](https://github.com/wuxuemin/cloudgo-db/blob/master/image/cheshi1.png)
+![测试:](https://github.com/wuxuemin/cloudgo-db/blob/master/image/ceshi1.png)
 
-![测试:](https://github.com/wuxuemin/cloudgo-db/blob/master/image/cheshi2.png)
+![测试:](https://github.com/wuxuemin/cloudgo-db/blob/master/image/ceshi2.png)
 
 #### 三.使用orm库程序测试
 + 启动服务器
